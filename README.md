@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there i'm Raí 🤙🏻
+My name is Raí Átila Cavalcante, I'm 17 years old and I'm currently a computer science student.
 <!--
 **raicavalcante/raicavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
