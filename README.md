@@ -1,5 +1,5 @@
-### Hi there i'm Raí 🤙🏻
-My name is Raí Átila Cavalcante, I am 19 years old and I am currently a student of the Information Systems course at the Pontifical Catholic University of Minas Gerais (PUC Minas).
+### Oi, eu sou o Raí 🤙🏻
+Meu nome é Raí Átila Cavalcante, tenho 19 anos e atualmente sou aluno do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
 <!--
 **raicavalcante/raicavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
