@@ -1,5 +1,6 @@
 ### Oi, eu sou o Raí 🤙🏻
 Meu nome é Raí Átila Cavalcante, tenho 19 anos e atualmente sou aluno do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+Atualmente trabalhando como estagiário de desenvolvimento na Brickup.
 <!--
 **raicavalcante/raicavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
