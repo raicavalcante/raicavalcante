@@ -1,7 +1,7 @@
 ### Oi, eu sou o Raí 🤙🏻👨🏻‍💻
-Meu nome é Raí Átila Cavalcante, tenho 20 anos e atualmente sou aluno do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+Meu nome é Raí Átila Cavalcante, tenho 21 anos e atualmente sou aluno do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
 
-Atualmente trabalhando como estagiário de desenvolvimento web na Brickup 💻
+Atualmente trabalhando como desenvolvedor full stack na Brickup 💻
 
 ## Tecnologias
 
